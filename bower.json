@@ -1,0 +1,19 @@
+{
+  "name": "mito-bootstrap-theme",
+  "description": "This is a compiled bootstrap (CSS only) to Mito Europe admin",
+  "main": [
+    "css/bootstrap.css"
+  ],
+  "homepage": "http://mito.hu",
+  "license": "MIT",
+  "authors": [
+    "Norbert Fodor <n.fodor@mito.hu>"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+  ]
+}
